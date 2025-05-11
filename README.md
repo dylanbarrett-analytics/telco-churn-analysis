@@ -38,11 +38,11 @@ Rather than relying heavily on demographic attributes, this project takes a busi
 
 The original dataset was cleaned and examined in Microsoft Excel. Key steps included:
 
-- Created calculated fields to derive:
+- Created **calculated fields** to derive:
   - Total number of subscribed services (`ServiceCountGroup`)
   - Monthly charge buckets (`MonthlyChargeGroup`)
   - Tenure ranges (`TenureGroup`)
-- Built PivotTables to explore churn by contract type, tenure, billing amount, and number of services
+- Built **PivotTables** to explore churn by contract type, tenure, billing amount, and number of services
 - Used basic bar charts to identify high-risk segments (that was all that was necessary for this project)
 
 (**Note:** While early churn analysis was performed using PivotTables in Excel, all final churn rate calculations were done in Tableau. This was much easier and less time-consuming due to Tableau’s ability to quickly calculate rates at different levels of detail.)
@@ -85,7 +85,7 @@ All charts are designed for clarity and consistency, with custom reference lines
 ---
 
 ## ✅ Final Thoughts
-This project demonstrates how Microsoft Excel and Tableau can be used together to uncover meaningful business insights, even from a synthetic dataset. By focusing on behavioral variables such as tenure, billing, and service bundling, basic demographics are relegated to the sideline in order to find the most significant churn risk patterns (at least in this particular dataset).
+This project demonstrates how Microsoft Excel and Tableau can be used together to uncover meaningful business insights, even from a synthetic dataset. By focusing on behavioral variables such as tenure, billing, and service bundling, basic demographics are relegated to the sidelines in order to find the most significant churn risk patterns (at least in this particular dataset).
 
 ---
 
