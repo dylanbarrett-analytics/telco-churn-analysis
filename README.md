@@ -55,7 +55,7 @@ Screenshots of all core PivotTables and charts have been saved in the `/images/`
 
 ## 📐 Choosing the More Appropriate Metric
 
-To ensure consistency and comparability across customer groups of varying sizes, this project uses churn rate — not raw churn counts — as the primary measure of risk. This rate provides a normalized view that highlights likelihood of departure, making it more actionable for any potential business strategies.
+To ensure consistency and comparability across customer groups of varying sizes, this project uses **churn rate** — not raw churn counts — as the primary measure of risk. This rate provides a normalized view that highlights the **likelihood of departure**, making it more actionable for any potential business strategies.
 - Statistically speaking, a count can be biased by the size of the subset. For example, **Group A** may have 100 customers with a churn rate of 50%, while **Group B** has 1,000 customers with a churn rate of 25%. Even though **Group B** lost more customers in total (250 vs. 50), the **likelihood of churn** is actually much higher in **Group A**, and that's more statistically significant when it comes to studying the behaviors and decision-making of different groups of people. (Analytics and psychology complement each other so well.)
 
 ---
