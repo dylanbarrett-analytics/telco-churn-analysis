@@ -45,7 +45,7 @@ The original dataset was cleaned and examined in Microsoft Excel. Key steps incl
 - Built PivotTables to explore churn by contract type, tenure, billing amount, and number of services
 - Used basic bar charts to identify high-risk segments (that was all that was necessary for this project)
 
-(**Note:** While early churn analysis was performed using PivotTables in Excel, all final churn rate calculations were done in Tableau. This was much easier (and less time-consuming) due to Tableau’s ability to quickly calculate rates at different levels of detail.)
+(**Note:** While early churn analysis was performed using PivotTables in Excel, all final churn rate calculations were done in Tableau. This was much easier and less time-consuming due to Tableau’s ability to quickly calculate rates at different levels of detail.)
 
 ---
 
