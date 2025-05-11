@@ -42,7 +42,7 @@ The original dataset was cleaned and examined in Microsoft Excel. Key steps incl
   - Total number of subscribed services (`ServiceCountGroup`)
   - Monthly charge buckets (`MonthlyChargeGroup`)
   - Tenure ranges (`TenureGroup`)
-- Built pivot tables to explore churn by tenure, contract type, billing amount, and service combinations
+- Built PivotTables to explore churn by tenure, contract type, billing amount, and service combinations
 - Used basic bar charts to identify high-risk segments (that was all that was necessary for this project)
 
 ---
