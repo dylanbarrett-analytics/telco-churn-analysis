@@ -23,7 +23,7 @@ This dataset is a **fictional yet realistic simulation** of a telecommunications
 ## 🎯 Project Goal
 The goal of this project is to identify key patterns and risk factors associated with customer churn in this telecommunications setting. By focusing on variables such as contract type, tenure, and subscribed services, this analysis aims to highlight which customer segments are most likely to leave — and when.
 
-Rather than relying heavily on demographic attributes, this project takes a business-focused approach by analyzing customer departures through the lens of **account behavior, billing characteristics, and service usage**.
+Rather than relying heavily on demographic attributes, this project takes a business-focused approach by analyzing customer departures through the lens of **account behavior, response to price, and service usage**.
 
 ---
 
