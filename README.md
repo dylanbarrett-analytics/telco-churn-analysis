@@ -1,5 +1,7 @@
 # IBM Telco Customer Churn Analysis
-[📎 **View Dashboard on Tableau Public**](https://public.tableau.com/app/profile/dylan.barrett1539/viz/UnderstandingChurnPatternsBehindCustomerDepartures/Dashboard)
+
+## [📎 **View Dashboard on Tableau Public**](https://public.tableau.com/app/profile/dylan.barrett1539/viz/UnderstandingChurnPatternsBehindCustomerDepartures/Dashboard)
+
 ---
 
 ## 📘 Introduction
