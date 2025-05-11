@@ -1,5 +1,5 @@
 # IBM Telco Customer Churn Analysis
-
+[📎 **View Dashboard on Tableau Public**](https://public.tableau.com/app/profile/dylan.barrett1539/viz/UnderstandingChurnPatternsBehindCustomerDepartures/Dashboard)
 ---
 
 ## 📘 Introduction
@@ -86,8 +86,3 @@ All charts are designed for clarity and consistency, with custom reference lines
 
 ## ✅ Final Thoughts
 This project demonstrates how Microsoft Excel and Tableau can be used together to uncover meaningful business insights, even from a synthetic dataset. By focusing on behavioral variables such as tenure, billing, and service bundling, basic demographics are relegated to the sidelines in order to find the most significant churn risk patterns (at least in this particular dataset).
-
----
-
-## 🌐 View the Dashboard  
-[📎 View on Tableau Public](https://public.tableau.com/app/profile/dylan.barrett1539/viz/UnderstandingChurnPatternsBehindCustomerDepartures/Dashboard)
